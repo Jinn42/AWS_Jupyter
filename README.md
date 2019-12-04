@@ -34,4 +34,11 @@ sudo pip3 install jupyter
 
 ```
 ## -Open Jupyter Notebook
+```
+nohup jupyter notebook - - ip=0.0.0.0 &
+```
+![](https://github.com/Jinn42/AWS_Jupyter/blob/master/openjupyter.png)
 
+## -edit security group inbound, add gate 8888
+
+## -type site on browser
