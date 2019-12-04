@@ -31,7 +31,6 @@ sudo apt-get python3-pip
 ## -Install Jupyter
 ```
 sudo pip3 install jupyter
-
 ```
 ## -Open Jupyter Notebook
 ```
