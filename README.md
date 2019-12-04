@@ -40,5 +40,6 @@ nohup jupyter notebook - - ip=0.0.0.0 &
 ![](https://github.com/Jinn42/AWS_Jupyter/blob/master/openjupyter.png)
 
 ## -edit security group inbound, add gate 8888
-
+![](https://github.com/Jinn42/AWS_Jupyter/blob/master/gate888.png)
 ## -type site on browser
+![](https://github.com/Jinn42/AWS_Jupyter/blob/master/site.png)
