@@ -27,7 +27,7 @@ python3 asdfgh.py
 ## -Install pip
 ```
 sudo apt-get update -y
-sudo apt-get python3-pip
+sudo apt-get install python3-pip
 ```
 ## -Install Jupyter
 ```
