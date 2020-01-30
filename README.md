@@ -117,7 +117,7 @@ pip3 freeze > myEnv.tx
 ```
 pip3 install ipykernel
 
-python3 -m ipykernel install --user --name=Jin
+python3 -m ipykernel install --user --name=Jin2
 ```
 - remove the environment
 ```
